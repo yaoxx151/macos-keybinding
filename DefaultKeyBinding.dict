@@ -12,6 +12,8 @@
     /* Meta (Option) shortcuts */
     "~f"        = "moveWordForward:";               /* M-f          Move forward word */
     "~b"        = "moveWordBackward:";              /* M-b          Move backward word */
+    "~k"        = "moveWordForward:";               /* M-k          Move forward word */
+    "~j"        = "moveWordBackward:";              /* M-j          Move backward word */
     "~d"        = "deleteWordForward:";             /* M-d          Delete word forward */
     "~\U007F"   = "deleteWordBackward:";            /* M-Bksp       Delete word backward */
     "~w"        = "selectWord:";                    /* M-w          Mark word */
